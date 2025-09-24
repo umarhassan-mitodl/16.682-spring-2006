@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Avionics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ]
+  ],
+  "legacy_uid": "22e67ff9-fb47-e18e-2f7a-0bb686ab32a8",
+  "instructors": {
+    "content": [
+      "862ee48a-3a15-3280-d1a3-8f382be82483"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f9a37fcc-22f3-2995-7b93-1a1b9de8a9a3",
+    "website": "16-682-prototyping-avionics-spring-2006"
+  },
+  "course_title": "Prototyping Avionics",
+  "course_description": "In the past building prototypes of electronic components for new projects/products was limited to using protoboards and wirewrap. Manufacturing a printed-circuit-board was limited to final production, where mistakes in the implementation meant physically cutting traces on the board and adding wire jumpers - the final products would have these fixes on them! Today that is no longer the case, while you will still cut traces and use jumpers when debugging a board, manufacturing a new final version without the errors is a simple and relatively inexpensive task. For that matter, manufacturing a prototype printed circuit board which you know is likely to have errors but which will get the design substantially closer to the final product than a protoboard setup is not only possible, but desirable. In this class, you'll learn to design, build, and debug printed-circuit-boards.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.682",
+  "course_image_thumbnail": {
+    "content": "77309e50-394d-e841-2f2d-07fb8e222439",
+    "website": "16-682-prototyping-avionics-spring-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "19b2bf83-45fd-4aaf-a600-c0258748e04c",
+  "site_short_id": "16.682-spring-2006",
+  "site_url_path": "courses/16-682-prototyping-avionics-spring-2006",
+  "title": "Course Metadata"
+}
